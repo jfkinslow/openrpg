@@ -1,0 +1,23 @@
+{
+  "name": "openrpg",
+  "version": "1.0.0",
+  "description": "Open Source RPG Game",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "node debug.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/killajk2201/openrpg.git"
+  },
+  "keywords": [
+    "openrpg"
+  ],
+  "author": "killajk2201 (Joshua Kinslow)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/killajk2201/openrpg/issues"
+  },
+  "homepage": "https://github.com/killajk2201/openrpg#readme"
+}
